@@ -6,17 +6,13 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Dr. Diya Premchandani',
-    title: 'CEO | Multimodal AI Researcher',
+    name: 'Diya Premchandani',
+    title: 'Economics Undergraduate | Aspiring Analyst',
     image: getAsset('images/profile.png'), // Resolves to /profile.png or /base-path/profile.png
-    description: 'Chandravesh Chaudhari, Ph.D. is an academic and practitioner working at the intersection of business analytics, machine learning, and technology-driven decision-making. His research and teaching focus on applying data science and emerging technologies to solve complex problems in business, economics, and management.\n' +
-        '\n' +
-        'Chandravesh teaches in the School of Business and Management at Christ University, where he has guided numerous students and professionals in mastering advanced Excel, Python, machine learning, and applied analytics. He is deeply involved in curriculum design, research mentorship, and capacity building for industry-oriented business analytics education.\n' +
-        '\n' +
-        'He earned his Ph.D. from Christ University, holds an Masters in Finance, and has completed specialized certifications in analytics and programming. His academic work emphasizes bridging theoretical concepts with real-world applications, particularly in domains such as financial analytics, business intelligence, and operational optimization.\n' +
-        '\n' +
-        'Chandravesh is the author of books “Programming for Machine Learning and Business” and “Machine Learning for Business". He regularly conducts training programs and workshops for professionals and students, focusing on making advanced analytical methods accessible and impactful.',
-    tagline: 'Empowering business through data-driven intelligence.',
+    description:     'Diya Premchandani is a Bachelor of Arts (Economics) student at Christ University, Bangalore, with a strong interest in economic analysis, public policy, and financial markets.\n\n' +
+    'Her academic work focuses on applying economic theory and quantitative tools to real-world problems, including monetary policy transmission, market structures, and development economics.\n\n' +
+    'She has hands-on experience with data analysis, field surveys, and applied research through academic projects, service-learning initiatives, and student-led fellowships.',
+    tagline: 'Exploring economics through data, policy, and real-world impact.',
   location: 'Bangalore, India',
   },
 
@@ -300,8 +296,8 @@ certifications: [
   ],
 
   contact: {
-    email: 'chandraveshchaudhari@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/chandravesh-chaudhari/',
+    email: 'premchandanidiya06@gmail.com',
+    linkedin: 'www.linkedin.com/in/diya-premchandani-542496362',
     github: 'https://github.com/chandraveshchaudhari',
     googleScholar: 'https://scholar.google.com/citations?authuser=1&user=V78qbA8AAAAJ',
   orcid: 'https://orcid.org/0000-0003-1053-7541',
